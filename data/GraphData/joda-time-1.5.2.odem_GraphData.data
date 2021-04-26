@@ -1,0 +1,7 @@
+    org.joda.time.base;0;0;0;0;0;0;1
+      org.joda.time.tz;0;0;0;0;0;0;1
+ org.joda.time.convert;1;0;0;0;0;0;1
+  org.joda.time.chrono;1;1;1;0;0;0;1
+  org.joda.time.format;1;1;1;1;0;0;1
+   org.joda.time.field;1;0;1;1;1;0;1
+         org.joda.time;1;1;1;1;1;1;0
