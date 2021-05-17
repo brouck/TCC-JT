@@ -1,4 +1,4 @@
-version	package	cbo	aff	eff	lcom	mf	cs
+versions	package	cbo	aff	eff	lcom	mf	cs
 joda-time-0.95	org.joda.time	6	122	30	0.8873403019744484	0.4961636828644501	-521
 joda-time-0.95	org.joda.time.chrono	3	21	33	0.9318936877076412	0.5466666666666666	-705
 joda-time-0.95	org.joda.time.convert	3	9	22	0.8375	0.5379310344827586	-44
